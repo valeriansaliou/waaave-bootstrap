@@ -1,0 +1,163 @@
+/*------------------------------------------------------------------
+[CSS3 Stylesheet]
+
+Project: Waaave Bootstrap
+Last change: 09.23.2013
+Designed by: The Squad http://waaave.com/
+Contact: julien@waaave.com & valerian@waaave.com
+Works in browsers: FF 3.5+, Opera 10.5+, Safari 4+, Google Chrome 4.0+
+-------------------------------------------------------------------*/
+
+
+/* `Body
+----------------------------------------------------------------------------------------------------*/
+
+body {
+  padding-bottom: 70px;
+}
+
+/* `Bootstrap >> Buttons
+----------------------------------------------------------------------------------------------------*/
+
+.headings {
+  padding-left: 30px;
+  background-color: #eeeeee;
+}
+
+/* `Bootstrap >> Buttons
+----------------------------------------------------------------------------------------------------*/
+
+.buttons {
+  float: left;
+  margin: 40px 20px 15px 0;
+}
+
+.buttons button {
+  margin-bottom: 18px;
+}
+
+/* `Bootstrap >> badges
+----------------------------------------------------------------------------------------------------*/
+
+.badges {
+  margin-top: 30px;
+}
+
+.badges span {
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+/* `Bootstrap >> Labels
+----------------------------------------------------------------------------------------------------*/
+
+.labels {
+  margin-bottom: 30px;
+}
+
+.labels span {
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+.labels .small-labels, .labels .default-labels, .labels .large-labels {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+/* `Bootstrap >> Alerts
+----------------------------------------------------------------------------------------------------*/
+
+.alerts {
+  margin-bottom: 20px;
+}
+
+.alerts .alert {
+  margin-bottom: 15px;
+}
+
+/* `Bootstrap >> Forms
+----------------------------------------------------------------------------------------------------*/
+
+.forms {
+  margin-bottom: 20px;
+}
+
+.forms input, .forms select, .forms textarea {
+  width: 100%;
+}
+
+.forms .checkboxes,
+.forms .radios {
+  float: left;
+  margin: 10px 0;
+}
+
+.forms .checkboxes .checkbox-classic,
+.forms .checkboxes .checkbox-slide,
+.forms .radios .radio-classic {
+  width: 0;
+}
+
+.forms .checkboxes .label-check {
+  display: inline-block;
+  margin-right: 35px;
+  font-size: 0.8125em;
+}
+
+/* `Bootstrap >> Miscellaneous >> Avatars
+----------------------------------------------------------------------------------------------------*/
+/* line 117, ../sass/index.scss */
+.avatars {
+  display: inline-block;
+}
+/* line 119, ../sass/index.scss */
+.avatars .avatar-wrapper {
+  margin-right: 10px;
+}
+
+/* `Bootstrap >> Miscellaneous >> Follow Elements
+----------------------------------------------------------------------------------------------------*/
+
+.follow-elements {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.follow-elements .follow-buttons {
+  margin-bottom: 15px;
+}
+
+/* `Bootstrap >> Miscellaneous >> Waaave Buttons
+----------------------------------------------------------------------------------------------------*/
+
+.waaave-buttons {
+  display: inline-block;
+  margin-top: 30px;
+}
+
+.waaave-buttons .default-button, .waaave-buttons .large-button {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+/* `Bootstrap >> Miscellaneous >> Emoticons
+----------------------------------------------------------------------------------------------------*/
+
+.emoticons {
+  display: inline-block;
+}
+
+/* `Bootstrap >> Miscellaneous >> Tooltips
+----------------------------------------------------------------------------------------------------*/
+
+.tooltips {
+  margin-top: 28px;
+}
+
+/* `Bootstrap >> Miscellaneous >> Tooltips
+----------------------------------------------------------------------------------------------------*/
+
+.colors {
+  padding-top: 20px;
+}
