@@ -1,7 +1,0 @@
-language: python
-python:
-  - "2.7"
-before_script:
-  - 'gem update --system'
-  - 'gem install compass'
-script: "./tools/test.py"
